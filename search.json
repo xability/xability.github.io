@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Welcome to (x)Ability Design Lab."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "(x)Ability Design Lab",
     "section": "",
     "text": "Welcome to the (x)Ability Design Lab! This is a space for us to explore and experiment with different ways of designing for accessibility. We’ll be using this space to share our ideas, prototypes, and resources, and to learn from each other."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to (x)Ability Design Lab."
   }
 ]
