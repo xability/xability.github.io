@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to (x)Ability Design Lab."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "(x)Ability Design Lab",
@@ -12,12 +19,5 @@
     "title": "(x)Ability Design Lab",
     "section": "Our Mission",
     "text": "Our Mission\nOur mission is to advance the field of inclusive UX and LX design by: - Conducting groundbreaking research that addresses the challenges faced by people with (dis)Abilities. - Developing tools and methods that enhance the accessibility of digital environments. - Collaborating with communities to ensure our solutions are informed by the real needs and experiences of people with (dis)Abilities.\nWe invite you to explore our projects, join our events, and contribute to our efforts to make the digital world more accessible and inclusive for everyone.\nJoin us in redefining accessibility and inclusivity at the (x)Ability Design Lab. Because everyone deserves to experience the world without barriers."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Welcome to (x)Ability Design Lab."
   }
 ]
