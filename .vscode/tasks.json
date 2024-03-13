@@ -4,7 +4,7 @@
     {
       "label": "Quarto Publish",
       "type": "shell",
-      "command": "quarto publish",
+      "command": "quarto publish gh-pages",
       "group": {
         "kind": "build",
         "isDefault": true
