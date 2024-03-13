@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.551">
+<meta name="generator" content="quarto-1.5.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -98,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -141,16 +141,14 @@ ul.task-list li input[type="checkbox"] {
 <p>Welcome to the <strong>(x)Ability Design Lab</strong>, pronounced as “Accessibility Design” Lab, where the “x” embodies our mission to enhance user experience (UX) and learning experience (LX) by dismantling sociotechnical barriers associated with disability. At our core, we believe in focusing on the ability and experience of all individuals, moving beyond the constraints of traditional accessibility discourse.</p>
 <p>The symbol “(x)” in our lab’s name is an experience variable and the testament to our multifaceted approach towards inclusivity and accessibility:</p>
 <ul>
-<li><strong>(learn)ability</strong> signifies our commitment to enhancing learnability (LX), ensuring educational content and experiences are accessible and engaging for everyone.</li>
 <li><strong>(use)ability</strong> emphasizes our dedication to improving usability (UX), making sure that products and services are user-friendly and accessible to people with varying needs.</li>
+<li><strong>(learn)ability</strong> signifies our commitment to enhancing learnability (LX), ensuring educational content and experiences are accessible and engaging for everyone.</li>
 <li><strong>(access)ability</strong> combines our efforts in UX and LX to promote accessibility, guaranteeing that information systems are within reach of everyone, irrespective of their abilities.</li>
 </ul>
 <p>By focusing on <strong>(x)Ability</strong> rather than <strong>(dis)Ability</strong>, we aim to unlock each person’s unlimited potential. Our lab is driven by the principle of designing with, by, for, and of people with (dis)Abilities. We strive to remove the “(x)”—the barriers—from people with (dis)Abilities, facilitating their access to information systems and contributing to a more inclusive world.</p>
-<p>Join us in our journey to explore, innovate, and transform the landscape of accessibility and inclusive design. Together, we can create experiences that empower everyone to achieve their fullest potential.</p>
 <section id="our-mission" class="level2">
 <h2 class="anchored" data-anchor-id="our-mission">Our Mission</h2>
 <p>Our mission is to advance the field of inclusive <strong>UX</strong> and <strong>LX</strong> design by: - Conducting groundbreaking research that addresses the challenges faced by people with (dis)Abilities. - Developing tools and methods that enhance the accessibility of digital environments. - Collaborating with communities to ensure our solutions are informed by the real needs and experiences of people with (dis)Abilities.</p>
-<p>We invite you to explore our projects, join our events, and contribute to our efforts to make the digital world more accessible and inclusive for everyone.</p>
 <p><strong>Join us in redefining accessibility and inclusivity at the (x)Ability Design Lab. Because everyone deserves to experience the world without barriers.</strong></p>
 
 
@@ -243,7 +241,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
