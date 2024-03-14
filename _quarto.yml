@@ -3,6 +3,8 @@ project:
 
 website:
   title: "(x)Ability Design Lab"
+  site-url: "https://xability.github.io/"
+  repo-url: "https://github.com/xability/xability.github.io"
   navbar:
     left:
       - href: index.qmd
