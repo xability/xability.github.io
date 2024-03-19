@@ -27,6 +27,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
