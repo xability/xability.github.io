@@ -2,4 +2,4 @@
 title: "Contact Us"
 ---
 
-If you would like to discuss a project or have any questions, please feel free to email us, [xability-lab@illinois.edu](mailto:xability-lab@illinois.edu).
+If you would like to discuss a project or have any questions, please feel free to email us at [xability-lab@illinois.edu](mailto:xability-lab@illinois.edu).
