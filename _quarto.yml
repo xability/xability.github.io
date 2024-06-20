@@ -7,8 +7,8 @@ website:
   repo-url: "https://github.com/xability/xability.github.io"
   issue-url: https://github.com/xability/xability.github.io/issues/new
   repo-actions: [edit, issue]
-  image: logo/logo_with_hue.jpeg
-  favicon: logo/favicon.png
+  image: "logo/logo_with_hue.jpeg"
+  favicon: "logo/favicon.png"
   # google-analytics: "G-FV9Z7SDZ0M"
   # open-graph: true
 
@@ -29,7 +29,7 @@ website:
         # aria-label: Quarto Blog RSS
 
   navbar:
-    logo: logo/logo_without_hue.svg
+    logo: "logo/logo_without_hue.svg"
     logo-alt: "(x)Ability Design Lab logo"
     title: false
     href: https://xabilitylab.ischool.illinois.edu/
