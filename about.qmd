@@ -3,3 +3,5 @@ title: "About"
 ---
 
 Welcome to (x)Ability Design Lab. 
+
+![(x)Ability Design Lab logo](/logo/logo_blackbg_without_hue.svg)

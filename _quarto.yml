@@ -42,7 +42,7 @@ website:
         # aria-label: Quarto Blog RSS
 
   navbar:
-    logo: "logo/darkmode_with_hue.jpeg"
+    logo: /logo/logo_blackbg_without_hue.jpg
     logo-alt: "(x)Ability Design Lab logo"
     title: false
     left:
