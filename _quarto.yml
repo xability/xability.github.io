@@ -31,7 +31,7 @@ website:
         # aria-label: Quarto Blog RSS
 
   navbar:
-    logo: "logo/logo_with_hue.jpeg"
+    logo: "logo/darkmode_with_hue.jpeg"
     logo-alt: "(x)Ability Design Lab logo"
     title: false
     href: https://xabilitylab.ischool.illinois.edu/
