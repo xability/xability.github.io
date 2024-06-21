@@ -58,4 +58,4 @@ format:
     css: styles.css
     toc: true
 
-bibliography: references.bib
+# bibliography: references.bib
