@@ -3,13 +3,13 @@ project:
 
 website:
   title: "(x)Ability Design Lab"
-  site-url: "https://xabilitylab.ischool.illinois.edu/"
-  repo-url: "https://github.com/xability/xability.github.io"
+  site-url: https://xabilitylab.ischool.illinois.edu
+  repo-url: https://github.com/xability/xability.github.io
   issue-url: https://github.com/xability/xability.github.io/issues/new
   repo-actions: [edit, issue]
-  image: "logo/logo_with_hue.jpeg"
+  image: /logo/logo_with_hue.jpeg
   image-alt: "(x)Ability Design Lab"
-  favicon: "logo/favicon.png"
+  favicon: /logo/favicon.png
   # google-analytics: "G-FV9Z7SDZ0M"
   open-graph: true
   twitter-card: true
@@ -42,7 +42,7 @@ website:
         # aria-label: Quarto Blog RSS
 
   navbar:
-    logo: /logo/logo_blackbg_without_hue.jpg
+    logo: logo/logo_blackbg_without_hue.svg
     logo-alt: "(x)Ability Design Lab logo"
     title: false
     left:
