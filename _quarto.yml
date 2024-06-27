@@ -54,7 +54,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, svg_tweak.scss]
     css: styles.css
     toc: true
 
