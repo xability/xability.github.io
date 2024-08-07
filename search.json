@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Us",
-    "section": "",
-    "text": "If you would like to discuss a project or have any questions, please feel free to email us at xability-lab@illinois.edu."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "(x)Ability Design Lab",
@@ -26,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "Welcome to (x)Ability Design Lab.\n\n\n\n(x)Ability Design Lab logo"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "If you would like to discuss a project or have any questions, please feel free to email us at xability-lab@illinois.edu."
   }
 ]
