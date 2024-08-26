@@ -1,0 +1,131 @@
+---
+title: "People"
+comments: false
+page-layout: full
+---
+
+## Principal Investigator
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-12}
+
+<div class="card mb-3">
+<div class="card-body">
+<img src="assets/images/js.png"/>
+<h3 class="card-title">JooYoung Seo</h3>
+<h6 class="card-subtitle text-muted">Ph.D., Learning, Design, and Technology</h6>
+</div>
+<div class="card-body">
+<p class="card-text">Dr. JooYoung Seo leads the (x)Ability Design Lab, where their research focuses on accessibility research. He is an assistant professor in the School of Information Sciences and a faculty affiliate in the Department of Computer Science, Informatics Institute, and the National Center for Supercomputing Applications at the University of Illinois Urbana-Champaign. Seo is also an RStudio double-certified data science instructor and accessibility expert certified by the International Association of Accessibility Professionals (IAAP). His research topics involve accessible computing, universal design, inclusive data science, and equitable healthcare technologies. As an emerging learning scientist and information scientist, his research focuses particularly on how to make computational literacy more accessible to people with dis/abilities by using multimodal data representation.
+
+He has worked on various research and development projects on accessible computing and open-source data science packages (e.g., gt; shiny; rmarkdown to name a few) for accessibility. His research projects have involved not just web accessibility, but also human-centered design and development studies, including inclusive makerspaces, tangible block-based programming, accessible data science (e.g., data tactualization, sonification, and verbalization), and accessible/reproducible scientific writing tools for people with and without dis/abilities.
+
+His research is funded by national institutes, industrial partners, and academic society, such as Institute of Museum and Library Services (IMLS), National Science Foundation (NSF), National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR), Posit Software, PBC (formerly RStudio), Teach Access, and the International Society of the Learning Sciences (ISLS) and the Wallace Foundation.
+
+Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and double BA in education and English literature from Sungkyunkwan University, Seoul, South Korea.</p>
+</div>
+</div>
+
+:::
+:::
+
+## Ph.D. Students
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<img src="assets/images/ssk.png"/>
+<h3 class="card-title">Sanchita Kamath</h3>
+<h6 class="card-subtitle text-muted">Ph.D. Student, Information Sciences</h6>
+</div>
+<div class="card-body">
+<p class="card-text">Her research focuses on designing and developing immersive, user-centered solutions that enhance accessibility and inclusivity, particularly for blind and low-vision (BLV) individuals. With a background in Computer Science and Engineering, Sanchita’s work seeks to bridge the gap between cutting-edge technology and user experience. She is currently workign on studies that investigate cognition in BLV people and multiple tools and technologies through which this can be achieved.</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<img src="assets/images/az.png"/>
+<h3 class="card-title">Aziz Zeidieh</h3>
+<h6 class="card-subtitle text-muted">Ph.D. Student, Informatics</h6>
+</div>
+<div class="card-body">
+<p class="card-text">His research is an exploration at the crossroads of accessibility, security, privacy, and usability. Within this dynamic realm, he delves into the intricacies of both time-honored and cutting-edge authentication methods, seeking to unlock their true potential for low vision or blind individuals. In parallel, he commits his expertise to visionary projects encompassing multimodal data representation, the battle against misinformation, and the immersive realm of extended reality (XR) in sports — all with a dedicated focus on innovating inclusive experiences for low vision or blind audiences.</p>
+</div>
+</div>
+
+:::
+
+:::
+
+## Research Assistants
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<img src="assets/images/ssk.png"/>
+<h3 class="card-title">XYZ</h3>
+<h6 class="card-subtitle text-muted">SOB</h6>
+</div>
+<div class="card-body">
+<p class="card-text">ABC</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<img src="assets/images/ssk.png"/>
+<h3 class="card-title">XYZ</h3>
+<h6 class="card-subtitle text-muted">SOB</h6>
+</div>
+<div class="card-body">
+<p class="card-text">ABC</p>
+</div>
+</div>
+:::
+
+:::
+
+## Collaborators
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<img src="assets/images/ssk.png"/>
+<h3 class="card-title">XYZ</h3>
+<h6 class="card-subtitle text-muted">SOB</h6>
+</div>
+<div class="card-body">
+<p class="card-text">ABC</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<img src="assets/images/ssk.png"/>
+<h3 class="card-title">XYZ</h3>
+<h6 class="card-subtitle text-muted">SOB</h6>
+</div>
+<div class="card-body">
+<p class="card-text">ABC</p>
+</div>
+</div>
+:::
+
+:::
