@@ -11,7 +11,7 @@ page-layout: full
 
 <div class="card mb-3">
 <div class="card-body">
-<img src="assets/images/js.png"/>
+<img src="assets/images/js.jpg"/>
 <h3 class="card-title">JooYoung Seo</h3>
 <h6 class="card-subtitle text-muted">Ph.D., Learning, Design, and Technology</h6>
 </div>
@@ -35,7 +35,7 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 
 <div class="card mb-3">
 <div class="card-body">
-<img src="assets/images/ssk.png"/>
+<img src="assets/images/sk.jpeg"/>
 <h3 class="card-title">Sanchita Kamath</h3>
 <h6 class="card-subtitle text-muted">Ph.D. Student, Information Sciences</h6>
 </div>
@@ -50,7 +50,7 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 
 <div class="card mb-3">
 <div class="card-body">
-<img src="assets/images/az.png"/>
+<img src="assets/images/az.jpeg"/>
 <h3 class="card-title">Aziz Zeidieh</h3>
 <h6 class="card-subtitle text-muted">Ph.D. Student, Informatics</h6>
 </div>
