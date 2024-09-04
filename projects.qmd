@@ -1,7 +1,47 @@
 ---
 title: "Projects"
-author: "xAbility Design Lab"
 format: html
 ---
 
-## MAIDR
+## An AudioTactile Data System for Blind or Low Vision Faculty, Staff, Postdocs, and Graduate Students in Chemistry, Math, Computer and Information Sciences
+Researchers at NewHaptics Corporation and the University of Illinois at Urbana-Champaign are developing and testing software and hardware tools for faculty, staff, postdoctoral research fellows, and graduate students who are blind or have low vision, and who are working in college and university Chemistry, Mathematics, and Computer Science and Engineering and Information Sciences employment settings. These tools, which use a combination of hearing and touch technologies, are making it possible for people who are blind or have low vision to generate, identify, and manipulate digital data patterns and trends.
+
+Given the scarcity of STEM scientists, researchers, and educators in our country, opportunities to increase knowledge about better data use technologies is essential to the retention and advancement of students and professionals who are blind or have low vision.
+
+### Aims 
+1) Develop new hardware interaction components and firmware/drivers; 
+2) Develop new interaction software, and 
+3) Evaluate the system and conduct workshops for users. 
+
+The project activities are addressing the following key research questions: 1) How can the addition of spatial information, realized through multiline braille and large array tactile graphics hardware, coupled with interactive software tools, break down barriers to data use? 2) What design considerations contribute to multi-modal data, that is, verbal, sonification, and tactile data representations that go beyond a single perceptual modality? Answers to these questions have the potential to contribute to research about STEM postsecondary workplace solutions for people with disabilities.
+
+#### NSF award 2348166
+
+## MAIDR: Multimodal Access and Interactive Data Representation
+
+Assistant Professor JooYoung Seo has been awarded a $649,921 Early Career Development grant from the Institute of Museum and Library Services, under the Laura Bush 21st Century Librarian Program, which supports "developing a diverse workforce of librarians to better meet the changing learning and information needs of the American public by enhancing the training and professional development of librarians, developing faculty and library leaders, and recruiting and educating the next generation of librarians."
+
+The three-year grant is an extension of Seo's ongoing project, "MAIDR: Multimodal Access and Interactive Data Representation," that has received support from the International Society of the Learning Sciences and the Wallace Foundation. Through the initial work, Seo has been developing computer tools that augment visual charts with touchable (braille), readable (text), and audible (sound) representations, to make them more accessible for the visually impaired. In the new project, Seo's tools will connect the multimodal and accessible data representation with data curators' day-to-day reproducible workflows, integrating them into reproducible frameworks (e.g., Jupyter Notebook, R Markdown, Quarto) and visualization libraries (e.g., R ggplot2, Python matplotlib).
+
+"Multimodal data representation is not merely an innovation; it is an imperative for inclusivity," Seo said. "While data visualization is a dominant method in scientific representation, it inherently marginalizes those who are blind and visually impaired, essentially sidelining them from full participation in the scientific discourse. My multimodal data representation challenges this norm by expanding the toolkit beyond the visual. It incorporates auditory, tactile, and verbal methods, thereby democratizing access to knowledge."
+
+According to Seo, this approach enriches the understanding of data for everyone and offers multiple perspectives that a singular approach could easily miss.
+
+The new project will involve meeting with data curators to assess needs and with blind patrons to shape the tools being created. For that work, Seo will collaborate with his community partners, Data Curation Network (DCN) and the National Federation of the Blind (NFB).
+
+Partners on the project include the National Center for Supercomputing Applications (NCSA), Posit Public Benefit Corporation (FKA, RStudio), and the Chart2Music (C2M) open-source project team.
+
+#### IMLS grant RE-254891-OLS-23
+
+## Promoting Computational Thinking Skills for Blind and Visually Impaired Teens Through Accessible Library Makerspaces
+Library makerspaces offer community members the opportunity to tinker, design, experiment, and create with a range of technology in an informal learning space. However, because current makerspaces and maker tools are highly vision oriented, blind and visually impaired (BVI) people have limited access to these learning opportunities. A new project led by Assistant Professor JooYoung Seo and Associate Professor Kyungwon Koh, director of the CU Community Fab Lab, seeks to address this problem by creating accessible maker programs for BVI learners and developing training materials on accessible making for librarians and maker professionals. The researchers were recently awarded a three-year, $498,638 National Leadership Grant from the Institute of Museum and Library Services for their project, "Promoting Computational Thinking Skills for Blind and Visually Impaired Teens Through Accessible Library Makerspaces."
+
+For the project, the iSchool and CU Community Fab Lab will partner with the American Printing House for the Blind, Young Adult Library Services Association, and Reaching Across Illinois Library System Makerspace Networking Group. The research also has received support from the National Federation of the Blind (NFB) and the Disability Resources and Educational Services (DRES) and Information Accessibility Design and Policy (IADP) program at the University of Illinois. Activities will include training maker professionals and conducting an accessibility status assessment, hosting a summer camp with BVI teens to co-design accessible maker curriculum, testing the developed accessible maker programs in four Illinois library makerspaces, and training library users who will benefit from a more inclusive and accessible makerspace.
+
+"Just as curb cuts help more than a person who uses a wheelchair, accessibility features added to maker tools and learning materials can make the system more usable by everyone," said Seo. "The tangible making activities and integrated curricula in our project will bring the current maker movement a new insight into how we can broaden the participation of maker and STEM learning for underserved populations of diverse abilities."
+
+The goal of the makerspace project is to not only enhance BVI learners' computational thinking skills and STEM interests but also help librarians and maker professionals become more confident and capable when working with BVI populations.
+
+
+#### IMLS grant LG-252360-OLS-22
+

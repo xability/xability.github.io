@@ -63,6 +63,8 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 
 :::
 
+<!--
+
 ## Research Assistants
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
@@ -129,3 +131,5 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 :::
 
 :::
+
+-->
