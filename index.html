@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.56">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -70,13 +70,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="(x)Ability Design Lab">
-<meta property="og:description" content="">
-<meta property="og:image" content="https://xabilitylab.ischool.illinois.edu/logo/logo_with_hue.jpeg">
+<meta property="og:title" content="– (x)Ability Design Lab">
+<meta property="og:image" content="<a href=&quot;https://xabilitylab.ischool.illinois.edu&quot; style=&quot;color: red;&quot;>https://xabilitylab.ischool.illinois.edu</a>/logo/logo_with_hue.jpeg">
 <meta property="og:site_name" content="(x)Ability Design Lab">
-<meta name="twitter:title" content="(x)Ability Design Lab">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://xabilitylab.ischool.illinois.edu/logo/logo_with_hue.jpeg">
+<meta name="twitter:title" content="– (x)Ability Design Lab">
+<meta name="twitter:image" content="<a href=&quot;https://xabilitylab.ischool.illinois.edu&quot; style=&quot;color: red;&quot;>https://xabilitylab.ischool.illinois.edu</a>/logo/logo_with_hue.jpeg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -88,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./logo/logo_blackbg_without_hue.svg" alt="(x)Ability Design Lab logo" class="navbar-logo">
+    <img src="./logo/logo_without_hue.jpeg" alt="(x)Ability Design Lab logo" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -106,6 +104,14 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./people.html"> 
+<span class="menu-text">People</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
@@ -120,52 +126,82 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#our-mission" id="toc-our-mission" class="nav-link active" data-scroll-target="#our-mission">Our Mission</a></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/xability/xability.github.io/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/xability/xability.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">(x)Ability Design Lab</h1>
+
+
+
+<style>
+  /* Disable scrolling */
+  html, body {
+    overflow: hidden;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+  }
+
+  /* Set the background image to cover the entire screen */
+  body {
+    background-image: url('logo/darkmode_with_hue.jpeg'); /* Path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  /* Text container styling for the bottom of the screen */
+  .text-container {
+    position: absolute;
+    bottom: 90px; /* Adjust the position above the footer */
+    left: 50%;
+    transform: translateX(-50%); /* Center the text horizontally */
+    z-index: 10;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 1.1em;  /* Adjust text size */
+    width: 100%;
+    max-width: 1600px; /* Increase the width of the text container */
+  }
+
+  /* Footer styling */
+  footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%; /* Ensures footer spans the full width */
+    text-align: center;
+    z-index: 10;
+  }
+
+  /* Overlay to darken the background image */
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Dark overlay */
+    z-index: 1;
+  }
+
+</style>
+<div class="overlay">
+
+</div>
+<p><!-- Overlay to darken the background image --></p>
+<!-- Text content overlaid on the image, aligned at the bottom -->
+<div class="text-container">
+<p>
+Welcome to the <strong>(x)Ability Design Lab</strong>, pronounced as “Accessibility Design” Lab, where the “x” embodies our mission to enhance user experience (UX) and learning experience (LX) by dismantling sociotechnical barriers associated with disability. At our core, we believe in focusing on the ability and experience of all individuals, moving beyond the constraints of traditional accessibility discourse.
+</p>
 </div>
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>Welcome to the <strong>(x)Ability Design Lab</strong>, pronounced as “Accessibility Design” Lab, where the “x” embodies our mission to enhance user experience (UX) and learning experience (LX) by dismantling sociotechnical barriers associated with disability. At our core, we believe in focusing on the ability and experience of all individuals, moving beyond the constraints of traditional accessibility discourse.</p>
-<p>The symbol “(x)” in our lab’s name is an experience variable and the testament to our multifaceted approach towards inclusivity and accessibility:</p>
-<ul>
-<li><strong>(use)ability</strong> emphasizes our dedication to improving usability (UX), making sure that products and services are user-friendly and accessible to people with varying needs.</li>
-<li><strong>(learn)ability</strong> signifies our commitment to enhancing learnability (LX), ensuring educational content and experiences are accessible and engaging for everyone.</li>
-<li><strong>(access)ability</strong> combines our efforts in UX and LX to promote accessibility, guaranteeing that information systems are within reach of everyone, irrespective of their abilities.</li>
-</ul>
-<p>By focusing on <strong>(x)Ability</strong> rather than <strong>(dis)Ability</strong>, we aim to unlock each person’s unlimited potential. Our lab is driven by the principle of designing with, by, for, and of people with (dis)Abilities. We strive to remove the “(x)”—the barriers—from people with (dis)Abilities, facilitating their access to information systems and contributing to a more inclusive world.</p>
-<section id="our-mission" class="level2">
-<h2 class="anchored" data-anchor-id="our-mission">Our Mission</h2>
-<p>Our mission is to advance the field of inclusive <strong>UX</strong> and <strong>LX</strong> design by: - Conducting groundbreaking research that addresses the challenges faced by people with (dis)Abilities. - Developing tools and methods that enhance the accessibility of digital environments. - Collaborating with communities to ensure our solutions are informed by the real needs and experiences of people with (dis)Abilities.</p>
-<p><strong>Join us in redefining accessibility and inclusivity at the (x)Ability Design Lab. Because everyone deserves to experience the world without barriers.</strong></p>
-
-
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -260,7 +296,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/xabilitylab\.ischool\.illinois\.edu");
+      var filterRegex = new RegExp("<a href="https:\/\/xabilitylab\.ischool\.illinois\.edu" style="color: red;">https:\/\/xabilitylab\.ischool\.illinois\.edu<\/a>");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -595,8 +631,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>© 2024 · Made with <a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" class="img-fluid" alt="Quarto" width="65"></a></p>
-<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/xability/xability.github.io/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/xability/xability.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+<p><span style="color: #2377cc;">© 2024 · Made with </span> <a href="https://quarto.org/" style="color: #000000;"> <img src="https://quarto.org/quarto.png" alt="Quarto" width="65px"> </a></p>
+<div class="toc-actions"><ul><li><a href="<a href=&quot;https://github.com/xability/xability.github.io&quot; style=&quot;color: red;&quot;>https://github.com/xability/xability.github.io</a>/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="<a href=&quot;https://github.com/xability/xability.github.io/issues/new&quot; style=&quot;color: red;&quot;>https://github.com/xability/xability.github.io/issues/new</a>" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
