@@ -1,23 +1,66 @@
 ---
-title: "(x)Ability Design Lab"
+title: ""
 ---
 
+<style>
+  /* Disable scrolling */
+  html, body {
+    overflow: hidden;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+  }
 
-Welcome to the **(x)Ability Design Lab**, pronounced as "Accessibility Design" Lab, where the "x" embodies our mission to enhance user experience (UX) and learning experience (LX) by dismantling sociotechnical barriers associated with disability. At our core, we believe in focusing on the ability and experience of all individuals, moving beyond the constraints of traditional accessibility discourse.
+  /* Set the background image to cover the entire screen */
+  body {
+    background-image: url('logo/darkmode_with_hue.jpeg'); /* Path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
 
-The symbol "(x)" in our lab's name is an experience variable and the testament to our multifaceted approach towards inclusivity and accessibility:
+  /* Text container styling for the bottom of the screen */
+  .text-container {
+    position: absolute;
+    bottom: 90px; /* Adjust the position above the footer */
+    left: 50%;
+    transform: translateX(-50%); /* Center the text horizontally */
+    z-index: 10;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 1.1em;  /* Adjust text size */
+    width: 100%;
+    max-width: 1600px; /* Increase the width of the text container */
+  }
 
-- **(use)ability** emphasizes our dedication to improving usability (UX), making sure that products and services are user-friendly and accessible to people with varying needs.
-- **(learn)ability** signifies our commitment to enhancing learnability (LX), ensuring educational content and experiences are accessible and engaging for everyone.
-- **(access)ability** combines our efforts in UX and LX to promote accessibility, guaranteeing that information systems are within reach of everyone, irrespective of their abilities.
+  /* Footer styling */
+  footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%; /* Ensures footer spans the full width */
+    text-align: center;
+    z-index: 10;
+  }
 
-By focusing on **(x)Ability** rather than **(dis)Ability**, we aim to unlock each person's unlimited potential. Our lab is driven by the principle of designing with, by, for, and of people with (dis)Abilities. We strive to remove the "(x)"—the barriers—from people with (dis)Abilities, facilitating their access to information systems and contributing to a more inclusive world.
+  /* Overlay to darken the background image */
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Dark overlay */
+    z-index: 1;
+  }
 
-## Our Mission
+</style>
 
-Our mission is to advance the field of inclusive **UX** and **LX** design by:
-- Conducting groundbreaking research that addresses the challenges faced by people with (dis)Abilities.
-- Developing tools and methods that enhance the accessibility of digital environments.
-- Collaborating with communities to ensure our solutions are informed by the real needs and experiences of people with (dis)Abilities.
+ <div class="overlay"></div>  <!-- Overlay to darken the background image -->
 
-**Join us in redefining accessibility and inclusivity at the (x)Ability Design Lab. Because everyone deserves to experience the world without barriers.**
+<!-- Text content overlaid on the image, aligned at the bottom -->
+<div class="text-container">
+  <p>Welcome to the <strong>(x)Ability Design Lab</strong>, pronounced as "Accessibility Design" Lab, where the "x" embodies our mission to enhance user experience (UX) and learning experience (LX) by dismantling sociotechnical barriers associated with disability. At our core, we believe in focusing on the ability and experience of all individuals, moving beyond the constraints of traditional accessibility discourse.</p>
+</div>
