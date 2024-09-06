@@ -62,3 +62,74 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 :::
 
 :::
+
+<!--
+
+## Research Assistants
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<img src="assets/images/ssk.png"/>
+<h3 class="card-title">XYZ</h3>
+<h6 class="card-subtitle text-muted">SOB</h6>
+</div>
+<div class="card-body">
+<p class="card-text">ABC</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<img src="assets/images/ssk.png"/>
+<h3 class="card-title">XYZ</h3>
+<h6 class="card-subtitle text-muted">SOB</h6>
+</div>
+<div class="card-body">
+<p class="card-text">ABC</p>
+</div>
+</div>
+:::
+
+:::
+
+## Collaborators
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<img src="assets/images/ssk.png"/>
+<h3 class="card-title">XYZ</h3>
+<h6 class="card-subtitle text-muted">SOB</h6>
+</div>
+<div class="card-body">
+<p class="card-text">ABC</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<img src="assets/images/ssk.png"/>
+<h3 class="card-title">XYZ</h3>
+<h6 class="card-subtitle text-muted">SOB</h6>
+</div>
+<div class="card-body">
+<p class="card-text">ABC</p>
+</div>
+</div>
+:::
+
+:::
+
+-->
