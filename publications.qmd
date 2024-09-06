@@ -10,5 +10,7 @@ format:
     toc-depth: 2
 ---
 
+The following includes the recent publications in our lab.
+
 ::: {#refs}
 :::
