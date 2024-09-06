@@ -1,0 +1,16 @@
+---
+title: "Publications"
+bibliography: references.bib
+nocite: |
+  @*
+csl: apa.csl  # Optional: You can change this to your preferred citation style
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+The following includes the recent publications in our lab.
+
+::: {#refs}
+:::
