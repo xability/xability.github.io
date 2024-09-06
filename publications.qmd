@@ -1,0 +1,12 @@
+---
+title: "Publications"
+bibliography: references.bib
+nocite: "@seoMAIDRMakingStatistical2024, @seoDesigningBornAccessibleCourses2024, @seoCodingNonVisuallyVisual2023"  # Include all references from the .bib file
+csl: apa.csl  # Optional: You can change this to your preferred citation style
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+::: {#refs}
+:::
