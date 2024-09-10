@@ -1,1 +1,12 @@
-/* css styles */
+/* Temporarily override color for all links to test */
+a {
+    color: #2377cc !important; /* Apply blue color to all links */
+    text-decoration: none !important; /* Remove underline globally */
+  }
+  
+  /* Hover effect for all links */
+  a:hover {
+    color: darkred !important; /* Apply dark red color on hover */
+    text-decoration: underline !important; /* Add underline on hover */
+  }
+  

@@ -1,1 +1,1 @@
-Sitemap: <a href="https://xabilitylab.ischool.illinois.edu" style="color: red;">https://xabilitylab.ischool.illinois.edu</a>/sitemap.xml
+Sitemap: https://xabilitylab.ischool.illinois.edu/sitemap.xml
