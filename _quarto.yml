@@ -85,8 +85,8 @@ website:
   twitter-card: true
   page-navigation: true
 
-  page-footer:
-    background: transparent
+  # page-footer:
+  #   background: transparent
   # bread-crumbs: true
   # search:
   # show-item-context: true
