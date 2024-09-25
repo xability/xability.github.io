@@ -65,7 +65,7 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 
 <div class="card mb-3">
 <div class="card-body">
-<img src="assets/images/ok.jpg" alt="Headshot of a man with a light beard, , tan skin, wearing dark framed glasses, an olive jacket, and smiling."/>
+<img src="assets/images/ok.jpg" alt="Headshot of a man with a light beard, tan skin, wearing dark framed glasses, an olive jacket, and smiling."/>
 <h3 class="card-title">Omar Khan</h3>
 <h6 class="card-subtitle text-muted">Ph.D. Student, Computer Science</h6>
 </div>
