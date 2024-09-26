@@ -4,7 +4,7 @@ comments: false
 page-layout: full
 ---
 
-## Principal Investigator
+## Director
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-12}
