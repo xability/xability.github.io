@@ -1,6 +1,8 @@
 ---
 title: "How to Request an NLS eReader Braille Display?"
 format: html
+filters:
+  - external-link.lua
 ---
 
 ## Purpose of this Page
