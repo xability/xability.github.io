@@ -10,7 +10,7 @@
 #   image: /logo/logo_with_hue.jpeg
 #   # image-alt: "(x)Ability Design Lab"
 #   favicon: /logo/favicon.png
-#   # google-analytics: "G-FV9Z7SDZ0M"
+  # google-analytics: "G-FV9Z7SDZ0M"
 #   open-graph: true
 #   twitter-card: true
 #   page-navigation: true
@@ -80,6 +80,7 @@ website:
   repo-actions: [edit, issue]
   image: /logo/logo_with_hue.jpeg
   # image-alt: "(x)Ability Design Lab"
+  google-analytics: "G-KJGPV06E92"
   favicon: /logo/favicon.png
   open-graph: true
   twitter-card: true
