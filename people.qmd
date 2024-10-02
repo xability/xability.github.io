@@ -11,9 +11,11 @@ page-layout: full
 
 <div class="card mb-3">
 <div class="card-body">
-<img src="assets/images/js.jpg" alt="JooYoung Seo"/>
+<center>
+<img src="assets/images/js.jpg" alt="JooYoung Seo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 <h3 class="card-title">JooYoung Seo</h3>
 <h6 class="card-subtitle text-muted">Ph.D., Learning, Design, and Technology</h6>
+</center>
 </div>
 <div class="card-body">
 <p class="card-text">Dr. JooYoung Seo leads the (x)Ability Design Lab, where their research focuses on accessibility research. He is an assistant professor in the School of Information Sciences and a faculty affiliate in the Department of Computer Science, Informatics Institute, and the National Center for Supercomputing Applications at the University of Illinois Urbana-Champaign. Seo is also an RStudio double-certified data science instructor and accessibility expert certified by the International Association of Accessibility Professionals (IAAP). His research topics involve accessible computing, universal design, inclusive data science, and equitable healthcare technologies. As an emerging learning scientist and information scientist, his research focuses particularly on how to make computational literacy more accessible to people with dis/abilities by using multimodal data representation.
@@ -35,22 +37,21 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 
 <div class="card mb-3">
 <div class="card-body">
-<img src="assets/images/sk.jpeg" alt="Sanchita Kamath"/>
+<img src="assets/images/sk.jpeg" alt="Sanchita Kamath" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;"/>
 <h3 class="card-title">Sanchita Kamath</h3>
 <h6 class="card-subtitle text-muted">Ph.D. Student, Information Sciences</h6>
 </div>
 <div class="card-body">
-<p class="card-text">Her research focuses on designing and developing immersive, user-centered solutions that enhance accessibility and inclusivity, particularly for blind and low-vision (BLV) individuals. With a background in Computer Science and Engineering, Sanchita’s work seeks to bridge the gap between cutting-edge technology and user experience. She is currently workign on studies that investigate cognition in BLV people and multiple tools and technologies through which this can be achieved.</p>
+<p class="card-text">Her research focuses on designing and developing immersive, user-centered solutions that enhance accessibility and inclusivity, particularly for blind and low-vision (BLV) individuals. With a background in Computer Science and Engineering, Sanchita’s work seeks to bridge the gap between cutting-edge technology and user experience. She is currently working on studies that investigate cognition in BLV people and multiple tools and technologies through which this can be achieved.</p>
 </div>
 </div>
 
 :::
-
 ::: {.g-col-12 .g-col-md-6}
 
 <div class="card mb-3">
 <div class="card-body">
-<img src="assets/images/az.jpeg" alt="Headshot of a bearded man with an olive skin complexion wearing a suit and smiling."/>
+<img src="assets/images/az.jpeg" alt="Aziz Zeidieh" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;"/>
 <h3 class="card-title">Aziz N. Zeidieh</h3>
 <h6 class="card-subtitle text-muted">Ph.D. Student, Informatics</h6>
 </div>
@@ -65,7 +66,7 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 
 <div class="card mb-3">
 <div class="card-body">
-<img src="assets/images/ok.jpg" alt="Headshot of a man with a light beard, tan skin, wearing dark framed glasses, an olive jacket, and smiling."/>
+<img src="assets/images/ok.jpg" alt="Omar Khan" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;"/>
 <h3 class="card-title">Omar Khan</h3>
 <h6 class="card-subtitle text-muted">Ph.D. Student, Computer Science</h6>
 </div>
