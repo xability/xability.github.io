@@ -10,7 +10,7 @@
 #   image: /logo/logo_with_hue.jpeg
 #   # image-alt: "(x)Ability Design Lab"
 #   favicon: /logo/favicon.png
-#   # google-analytics: "G-FV9Z7SDZ0M"
+# google-analytics: "G-FV9Z7SDZ0M"
 #   open-graph: true
 #   twitter-card: true
 #   page-navigation: true
@@ -24,9 +24,6 @@
 #   # search-only-api-key: 41be6c1e0a7fea4a51b107810facf577
 #   # analytics-events: true
 #   # show-logo: true
-
-#   page-footer:
-#     background: transparent
 #     # left: |
 #     # Proudly supported by
 #     # [![](https://www.rstudio.com/assets/img/posit-logo-fullcolor-TM.svg){fig-alt="Posit" width=65px}](https://posit.co)
@@ -80,10 +77,14 @@ website:
   repo-actions: [edit, issue]
   image: /logo/logo_with_hue.jpeg
   # image-alt: "(x)Ability Design Lab"
+  google-analytics: "G-KJGPV06E92"
   favicon: /logo/favicon.png
   open-graph: true
   twitter-card: true
   page-navigation: true
+
+  # page-footer:
+  #   background: transparent
   # bread-crumbs: true
   # search:
   # show-item-context: true

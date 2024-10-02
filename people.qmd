@@ -4,7 +4,7 @@ comments: false
 page-layout: full
 ---
 
-## Principal Investigator
+## Director
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-12}
@@ -81,7 +81,7 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 
 <!--
 
-## Research Assistants
+## Current Advisees
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
 

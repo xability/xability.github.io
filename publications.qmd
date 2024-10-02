@@ -3,14 +3,14 @@ title: "Publications"
 bibliography: references.bib
 nocite: |
   @*
-csl: apa.csl  # Optional: You can change this to your preferred citation style
+csl: apa7-cv-jy-edition.csl
 format:
   html:
     toc: true
     toc-depth: 2
 ---
 
-The following includes the recent publications in our lab.
+The following includes the recent publications in our lab (including outcomes with other collaborators).
 
 ::: {#refs}
 :::
