@@ -47,19 +47,10 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 </div>
 
 :::
-
 ::: {.g-col-12 .g-col-md-6}
 
 <div class="card mb-3">
 <div class="card-body">
-<<<<<<< Updated upstream
-<img src="assets/images/az.jpeg" alt="Aziz Zeidieh"/>
-<h3 class="card-title">Aziz Zeidieh</h3>
-<h6 class="card-subtitle text-muted">Ph.D. Student, Informatics</h6>
-</div>
-<div class="card-body">
-<p class="card-text">His research is an exploration at the crossroads of accessibility, security, privacy, and usability. Within this dynamic realm, he delves into the intricacies of both time-honored and cutting-edge authentication methods, seeking to unlock their true potential for low vision or blind individuals. In parallel, he commits his expertise to visionary projects encompassing multimodal data representation, the battle against misinformation, and the immersive realm of extended reality (XR) in sports — all with a dedicated focus on innovating inclusive experiences for low vision or blind audiences.</p>
-=======
 <img src="assets/images/az.jpeg" alt="Aziz Zeidieh" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;"/>
 <h3 class="card-title">Aziz N. Zeidieh</h3>
 <h6 class="card-subtitle text-muted">Ph.D. Student, Informatics</h6>
@@ -81,7 +72,6 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 </div>
 <div class="card-body">
 <p class="card-text">Omar is a human-computer interaction researcher working at the intersection of accessibility, mental health and wellness, and artificial intelligence. His current research investigates the usefulness of existing digital mental health tracking services throughout the blind and low-vision (BLV) community and how they might be improved for greater accessibility, utility, and inclusivity. He is also continually exploring opportunities to leverage emerging technologies such as large language models (LLMs), co-designing these experiences with the BLV community to provide personalized mental health support.</p>
->>>>>>> Stashed changes
 </div>
 </div>
 
