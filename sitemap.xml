@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://xabilitylab.ischool.illinois.edu/publications.html</loc>
-    <lastmod>2024-10-02T14:45:44.338Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xabilitylab.ischool.illinois.edu/about.html</loc>
-    <lastmod>2024-10-02T14:45:44.327Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xabilitylab.ischool.illinois.edu/projects.html</loc>
-    <lastmod>2024-10-02T14:45:44.338Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xabilitylab.ischool.illinois.edu/index.html</loc>
-    <lastmod>2024-10-02T14:45:44.332Z</lastmod>
+    <loc>https://xabilitylab.ischool.illinois.edu/people.html</loc>
+    <lastmod>2024-10-30T23:55:21.688Z</lastmod>
   </url>
   <url>
     <loc>https://xabilitylab.ischool.illinois.edu/contact.html</loc>
-    <lastmod>2024-10-02T14:45:44.331Z</lastmod>
+    <lastmod>2024-10-30T23:55:21.680Z</lastmod>
   </url>
   <url>
-    <loc>https://xabilitylab.ischool.illinois.edu/people.html</loc>
-    <lastmod>2024-10-02T14:45:44.338Z</lastmod>
+    <loc>https://xabilitylab.ischool.illinois.edu/projects.html</loc>
+    <lastmod>2024-10-30T23:55:21.688Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xabilitylab.ischool.illinois.edu/about.html</loc>
+    <lastmod>2024-10-30T23:55:21.676Z</lastmod>
   </url>
   <url>
     <loc>https://xabilitylab.ischool.illinois.edu/braille-display.html</loc>
-    <lastmod>2024-10-02T14:45:44.331Z</lastmod>
+    <lastmod>2024-10-30T23:55:21.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xabilitylab.ischool.illinois.edu/index.html</loc>
+    <lastmod>2024-10-30T23:55:21.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xabilitylab.ischool.illinois.edu/publications.html</loc>
+    <lastmod>2024-10-30T23:55:21.688Z</lastmod>
   </url>
 </urlset>
