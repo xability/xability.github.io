@@ -14,16 +14,16 @@ title: ""
 
   /* Set the background image to cover the entire screen */
   body {
-    background-image: url('logo/darkmode_with_hue.jpeg'); /* Path to your image */
+    background-image: url('logo/lab-logo_inverted-slow.gif'); /* Updated to use the existing GIF file */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
 
-  /* Text container styling for the bottom of the screen */
+  /* Text container styling for the top of the screen */
   .text-container {
     position: absolute;
-    bottom: 90px; /* Adjust the position above the footer */
+    top: 90px; /* Position at the top instead of bottom */
     left: 50%;
     transform: translateX(-50%); /* Center the text horizontally */
     z-index: 10;
@@ -60,7 +60,7 @@ title: ""
 
  <div class="overlay"></div>  <!-- Overlay to darken the background image -->
 
-<!-- Text content overlaid on the image, aligned at the bottom -->
+<!-- Text content overlaid on the image, aligned at the top -->
 <div class="text-container">
   <p>Welcome to the <strong>(x)Ability Design Lab</strong>, pronounced as "Accessibility Design" Lab, where the "x" embodies our mission to enhance user experience (UX) and learning experience (LX) by dismantling sociotechnical barriers associated with disability. At our core, we believe in focusing on the ability and experience of all individuals, moving beyond the constraints of traditional accessibility discourse.</p>
 </div>
