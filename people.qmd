@@ -39,10 +39,10 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 <div class="card-body">
 <img src="assets/images/sk.jpeg" alt="Sanchita Kamath" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;"/>
 <h3 class="card-title">Sanchita Kamath</h3>
-<h6 class="card-subtitle text-muted">Ph.D. Student, Information Sciences</h6>
+<h6 class="card-subtitle text-muted">Ph.D. Candidate, Information Sciences</h6>
 </div>
 <div class="card-body">
-<p class="card-text">Her research focuses on designing and developing immersive, user-centered solutions that enhance accessibility and inclusivity, particularly for blind and low-vision (BLV) individuals. With a background in Computer Science and Engineering, Sanchita’s work seeks to bridge the gap between cutting-edge technology and user experience. She is currently working on studies that investigate cognition in BLV people and multiple tools and technologies through which this can be achieved.</p>
+<p class="card-text">Sanchita Kamath is a Ph.D. candidate in Information Sciences at the University of Illinois Urbana-Champaign, specializing in Human-Computer Interaction, Data Visualization Education, and Embodied Learning. Her research explores how generative AI and immersive technologies can make data experiences more inclusive, non-visual, tangible, and human-centered. At the (x)Ability Lab, Sanchita designs and evaluates multimodal and embodied interfaces that bridge cognitive and physical engagement in data understanding. Her projects include VR-based learning environments, AI-driven visualization tools, and interactive pedagogical frameworks that reimagine how data can be felt, explored, and understood beyond sight. Her broader goal is to advance accessible data education by merging design, technology, and embodied experience to create equitable pathways for learning and exploration.</p>
 </div>
 </div>
 
@@ -53,7 +53,7 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 <div class="card-body">
 <img src="assets/images/az.jpeg" alt="Aziz Zeidieh" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;"/>
 <h3 class="card-title">Aziz N. Zeidieh</h3>
-<h6 class="card-subtitle text-muted">Ph.D. Student, Informatics</h6>
+<h6 class="card-subtitle text-muted">Ph.D. Candidate, Informatics</h6>
 </div>
 <div class="card-body">
 <p class="card-text">Aziz is a data-driven human-computer interaction researcher working at the intersection of orientation and mobility, artificial intelligence, and assistive technology. His current work focuses on utilizing multimodal AI models to provide an accessible and interactive application for the spatial orientation of blind and visually impaired (BVI) travelers. He is actively exploring opportunities to leverage data and the lived experiences of BVI individuals to facilitate safer and more efficient technologically interdependent travel experiences.</p>
@@ -72,6 +72,22 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 </div>
 <div class="card-body">
 <p class="card-text">Omar is a human-computer interaction researcher working at the intersection of accessibility, mental health and wellness, and artificial intelligence. His current research investigates the usefulness of existing digital mental health tracking services throughout the blind and low-vision (BLV) community and how they might be improved for greater accessibility, utility, and inclusivity. He is also continually exploring opportunities to leverage emerging technologies such as large language models (LLMs), co-designing these experiences with the BLV community to provide personalized mental health support.</p>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+<div class="card mb-3">
+<div class="card-body">
+<img src="assets/images/wz.JPG" alt="Weijun Zhang" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;"/>
+<h3 class="card-title">Weijun Zhang</h3>
+<h6 class="card-subtitle text-muted">Ph.D. Student, Information Science</h6>
+</div>
+<div class="card-body">
+<p class="card-text">Weijun Zhang is a researcher focusing on accessibility, human-computer interaction (HCI), and universal design in both educational and workplace settings. Blind since birth, he combines lived experience with academic inquiry to explore how emerging technologies can support inclusive design and improve digital accessibility for people with disabilities.
+Before joining the University of Illinois Urbana-Champaign, Weijun earned a master’s degree in Translation and Interpreting from Beijing International Studies University and another in Cultural Foundations of Education from Syracuse University. In addition to his academic work, he has been actively involved in disability rights advocacy in China for many years. His interdisciplinary background and advocacy experience inform his current research on accessible computing, inclusion in education and Employment, and the development of digital tools that empower people with visual impairments.</p>
 </div>
 </div>
 
