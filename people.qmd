@@ -68,10 +68,10 @@ Seo obtained his PhD and M.Ed in  at the Pennsylvania State University, and doub
 <div class="card-body">
 <img src="assets/images/ok.jpg" alt="Omar Khan" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;"/>
 <h3 class="card-title">Omar Khan</h3>
-<h6 class="card-subtitle text-muted">Ph.D. Student, Computer Science</h6>
+<h6 class="card-subtitle text-muted">Ph.D. Candidate, Computer Science</h6>
 </div>
 <div class="card-body">
-<p class="card-text">Omar is a human-computer interaction researcher working at the intersection of accessibility, mental health and wellness, and artificial intelligence. His current research investigates the usefulness of existing digital mental health tracking services throughout the blind and low-vision (BLV) community and how they might be improved for greater accessibility, utility, and inclusivity. He is also continually exploring opportunities to leverage emerging technologies such as large language models (LLMs), co-designing these experiences with the BLV community to provide personalized mental health support.</p>
+<p class="card-text">Omar is a human-computer interaction researcher working at the intersection of accessibility, human-AI interaction, and inclusive STEM education. His current research focuses on co-designing accessible data visualizations, especially qualitative or 'open-ended' data such as concept maps, network graphs, and coding trees, with the blind and low-vision (BLV) community. Through understanding BLV researchers' workflows and processes, he aims to create responsible, AI-driven digital experiences that empower people of diverse abilities to independently create, interpret, and share complex information with their peers and broader audiences.</p>
 </div>
 </div>
 
